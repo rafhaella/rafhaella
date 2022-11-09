@@ -99,15 +99,11 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&count_private=true&hide_border=true&layout=tokyonight" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<div align="center">
+  <a href="https://github.com/VanessaB063013/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=tokyonight &include_all_commits=true&count_private=true"/_>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&layout=compact&langs_count=7&theme=tokyonight "/>
+</div> 
 
 <br/>  
 
