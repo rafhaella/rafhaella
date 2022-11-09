@@ -101,9 +101,12 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 ## Github Stats  
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=draculak&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=dracula&count_private=true&hide_border=false"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=compact&theme=dracula"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 
