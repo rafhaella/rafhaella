@@ -99,15 +99,13 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=aura_dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=draculak&count_private=true&hide_border=true"/>
 
-</td><td valign="top" width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=compact&theme=dracula"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=compact&theme=aura_dark" align="left" style="width: 100%" />
-
-</td></tr></table>  
+</div>
 
 <br/>  
 
