@@ -101,7 +101,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 ## Github Stats  
 <div align="center">
   <a href="https://github.com/rafhaella/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=tokyonight &include_all_commits=true&count_private=true"/_>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafhaella&theme=dark&show_icons=true)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&layout=compact&langs_count=7&theme=tokyonight "/>
 </div> 
 
