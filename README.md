@@ -101,11 +101,11 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=aura_dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=compact&theme=aura_dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
