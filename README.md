@@ -101,8 +101,8 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 ## Github Stats  
 <div align="center">
   <a href="https://github.com/rafhaella/">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 </div> 
 
 <br/>  
