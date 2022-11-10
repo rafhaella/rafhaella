@@ -19,7 +19,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 <a href="https://linkedin.com/in/rafhaella-moreno" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="malito:rafhaellamoreno@gmail.com" target="_blank">
+<a href="mailto:rafhaellamoreno@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="https://twitter.com/rafhaellamoreno" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -33,7 +33,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 ## Rapidfire  
 <div align="center">
-<table style="border:none">
+<table>
 <tr>
 <td style="border:none" valign="top" width="60%">
 
@@ -59,7 +59,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 <br/>  
 
 
-## Languages and Tools  
+## Languages
 <div align="center">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" height="50" /></a>  
@@ -74,7 +74,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 
 
-### Frameworks  
+## Frameworks  
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" alt="Android" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -87,7 +87,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 
 
-### Tools and Technologies  
+## Tools and Technologies  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="50" /></a>  
@@ -106,25 +106,14 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 ## Github Stats  
 <div align="center">
+<table>
+<tr>
+<td style="border:none" valign="top" width="50%">
 <a href="https://github.com/rafhaella/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=tokyonight&count_private=true"/>
+</td>
+<td style="border:none" valign="top" width="50%">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&layout=compact&theme=tokyonight"/>
  </a>
-
+ </td></tr></table> 
 </div>
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
