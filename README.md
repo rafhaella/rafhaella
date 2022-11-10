@@ -103,12 +103,16 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 <br/>  
 
 ## Github Stats  
-  <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=rafhaella&theme=radical)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&theme=radical&locale=en&layout=compact" alt="rafhaella" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=radical&locale=en" alt="rafhaella" /></p>
+
+  
   </div>
 <div align="center" dir="auto">
 <a href="https://github.com/rafhaella/">
-  <img height="180em" src="https://camo.githubusercontent.com/894ef95338e4b588514470d6d9e82f3cb560967f95ace75edf58a98da03bafff/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7261666861656c6c61267469746c655f636f6c6f723d3936323566332669636f6e5f636f6c6f723d39613938663826746578745f636f6c6f723d6164626162622662675f636f6c6f723d66666666666630302673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rafhaella&amp;title_color=9625f3&amp;icon_color=9a98f8&amp;text_color=adbabb&amp;bg_color=ffffff00&amp;show_icons=true&include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/3fff6a6a17197423512bf16e0ca9ebeb2b60c7c47709dcb6609dff217a34ebf1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d56616e6573736142303633303133266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaella&amp;title_color=9625f3&amp;icon_color=9a98f8&amp;text_color=adbabb&amp;bg_color=ffffff00&amp;layout=compact&langs_count=10" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=radical&locale=en" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&theme=radical&locale=en&layout=compact" style="max-width: 100%;">
 </a>
 </div>
