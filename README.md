@@ -104,15 +104,13 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 ## Github Stats  
   [![GitHub Streak](https://streak-stats.demolab.com?user=rafhaella&theme=radical)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&theme=radical&locale=en&layout=compact" alt="rafhaella" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&theme=radical&locale=en&layout=compact" alt="rafhaella" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=radical&locale=en" alt="rafhaella" /></p>
 
   
   </div>
 <div align="center" dir="auto">
-<a href="https://github.com/rafhaella/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=radical&locale=en" style="max-width: 100%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&theme=radical&locale=en&layout=compact" style="max-width: 100%;">
-</a>
 </div>
