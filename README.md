@@ -46,7 +46,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 
 </td>
-<td style="border:none" valign="top" width="50%">
+<td style="border:none" valign="top" width="40%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -100,17 +100,16 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50" /></a>  
 </div>  
 
-<br/>  
-
 ## Github Stats  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=rafhaella&theme=radical)](https://git.io/streak-stats)
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&theme=radical&locale=en&layout=compact" alt="rafhaella" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=radical&locale=en" alt="rafhaella" /></p>
+<table>
+<tr>
+<td style="border:none" valign="top" width="50%">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&amp;title_color=9625f3&amp;icon_color=9a98f8&amp;text_color=adbabb&amp;bg_color=ffffff00&amp;show_icons=true&include_all_commits=true&amp;count_private=true" alt="rafhaella" />
+</td>
+<td style="border:none" valign="top" width="50%">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&locale=en&layout=compact&amp;langs_count=7&amp;title_color=9625f3&amp;icon_color=9a98f8&amp;text_color=adbabb&amp;bg_color=ffffff00&amp" alt="rafhaella" />
+</td></tr></table>
 
-  
-  </div>
-<div align="center" dir="auto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&show_icons=true&theme=radical&locale=en" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&theme=radical&locale=en&layout=compact" style="max-width: 100%;">
-</div>
+
+
