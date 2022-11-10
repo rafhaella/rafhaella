@@ -8,7 +8,7 @@ I'm currently studying to be a front-end developer. 👩‍💻
 
 My career in technology started 6 years ago in the area of help-desk, web designer and graphic design and since August 2022 I am in transition to the development area.
 
-I have experience in graphic design and web design in UI/UX standards, in addition to having extensive knowledge of various technologies, for example: database and server administration, analysis and data collection, deployment and network management; Knowledge of agile Scrum/XP software development methodologies.
+I have experience in graphic design and web design in UI/UX pattern, in addition to having extensive knowledge of various technologies, for example: database and server administration, analysis and data collection, deployment and network management; Knowledge of agile Scrum/XP software development methodologies.
 
 Feel free to follow or connect with me and ask me about anything! 👇💬  
   
@@ -33,7 +33,7 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 
 ## Rapidfire  
 <div align="center">
-<table>
+<table style="border:none">
 <tr>
 <td style="border:none" valign="top" width="60%">
 
