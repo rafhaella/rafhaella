@@ -93,16 +93,5 @@ Feel free to follow or connect with me and ask me about anything! 👇💬
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50" /></a>  
 </div>  
 
-## Github Stats  
-
-<table>
-<tr>
-<td style="border:none" valign="top" width="50%">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaella&amp;title_color=9625f3&amp;icon_color=9a98f8&amp;text_color=adbabb&amp;bg_color=ffffff00&amp;show_icons=true&include_all_commits=true&amp;count_private=true" alt="rafhaella" />
-</td>
-<td style="border:none" valign="top" width="50%">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafhaella&show_icons=true&locale=en&layout=compact&amp;langs_count=7&amp;title_color=9625f3&amp;icon_color=9a98f8&amp;text_color=adbabb&amp;bg_color=ffffff00&amp" alt="rafhaella" />
-</td></tr></table>
-
 
 
