@@ -5,14 +5,25 @@
 
 ### Glad to see you here!
 
-Me chamo Rafhaella *she/her*  , sou uma profissional de TI apaixonada pela criação de soluções inovadoras.
-Tenho 5 anos de experiência na área de suporte e um amplo conhecimento em diversas tecnologias, estou sempre em busca de novos desafios e oportunidades de aprendizado.
+Olá! Sou Rafhaella e atualmente, trabalho como desenvolvedora front-end júnior, utilizando tecnologias como Typescript, Angular e SASS. Tenho experiência na criação de componentes Angular reutilizáveis e interfaces web, assegurando a conformidade com os padrões de usabilidade e desempenho.
+
+Sou formada em Sistemas de Informação, e durante o meu curso tive a oportunidade de aprender e aplicar técnicas e normas para desenvolver código de qualidade e nos padrões atuais da engenharia de software. No meu trabalho diário, colaboro com equipes de design, gestão, backend e devops para desenvolver aplicações web responsivas e interativas, realizando testes de funcionalidade e garantindo a qualidade nas entregas.
+
+Estou envolvida em todo o processo de desenvolvimento, desde o planejamento e design até a implementação e manutenção. Utilizo metodologias ágeis para gerenciar projetos e priorizar tarefas, assegurando a entrega eficiente e dentro dos prazos estipulados.
+
+Além das habilidades técnicas, tenho uma excelente capacidade de resolução de problemas, atenção aos detalhes e um forte compromisso com a qualidade. Minhas habilidades de comunicação permitem uma colaboração produtiva com equipes multidisciplinares. Sou proativa, adaptável e sempre em busca de novas oportunidades para aprimorar meus conhecimentos e contribuir significativamente para projetos inovadores e desafiadores.
 
 💻 Minhas principais competências e habilidades incluem:
 
 Desenvolvimento de APIs RESTful utilizando Java com Spring Boot.
 Experiência em testes automatizados com JUnit e Postman.
-Domínio em linguagens como Java, JavaScript, HTML e CSS.
+Domínio em linguagens como Java, JavaScript, TypeScript, HTML e SASS/CSS.
+Desenvolvimento de Interfaces: Construção de componentes de interface usando HTML, CSS, SASS, TypeScript e Angular.
+Design Responsivo: Garantia de funcionamento adequado das interfaces em diversos dispositivos e tamanhos de tela.
+Otimização de Desempenho: Otimização da performance das aplicações para proporcionar tempos de carregamento rápidos e interações suaves.
+Integração com Back-end: Colaboração com desenvolvedores back-end para integrar a interface com serviços e consumo de APIs.
+Testes e Depuração: Realização de testes de usabilidade, detecção e correção de bugs.
+Manutenção e Atualizações: Manutenção do código atualizado, refatoração, implementação de novas funcionalidades e melhorias contínuas.
 Conhecimento em bancos de dados, tanto relacionais (MySQL, SQL Server, PostgreSQL)
 quanto NoSQL (DynamoDB, MongoDB).
 Experiência em documentação de APIs utilizando Swagger.
@@ -51,12 +62,9 @@ Se você está procurando um desenvolvedor dedicado, curioso e comprometido em c
 <div align="center">
 <table>
 <tr>
-<td style="border:none" valign="top" width="60%">
+<td style="border:none" valign="top" width="60%">  
 
-- 📌 Estou trabalhando no projeto: [JáFui! App](https://github.com/rafhaella/jafui-app)
-  
-
-- 🧠 Estou estudando Flutter | Dart | Javascript | Typescript | React  
+- 🧠 Estou estudando React  
   
 
 - ⚡ Fun fact: Amo a natureza 🌱 e tenho dois gatos 🐱  
